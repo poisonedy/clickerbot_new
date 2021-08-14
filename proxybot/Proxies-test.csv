@@ -1,0 +1,2 @@
+ProxyID,IP,Port,Type,Country,Latency,LastUsed,LastChecked,IsActive
+1,127.0.0.1,9050,socks5,,,,,1
